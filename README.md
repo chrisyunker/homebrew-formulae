@@ -8,7 +8,7 @@ A [Homebrew tap] for some of my projects/tools.
 
 Tap this repository:
 
-    brew tap cyunker/formulae
+    brew tap chrisyunker/formulae
 
 Install packages like any other Homebrew package:
 
@@ -16,5 +16,5 @@ Install packages like any other Homebrew package:
 
 ## Packages
 
-- diario
+- [diario](https://github.com/chrisyunker/diario)
 
