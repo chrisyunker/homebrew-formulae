@@ -10,11 +10,11 @@ Tap this repository:
 
     brew tap chrisyunker/formulae
 
-Install packages like any other Homebrew package:
+Install packages using fully qualified name:
 
-    brew install diario
+    brew install chrisyunker/formulae/[package]
 
 ## Packages
 
-- [diario](https://github.com/chrisyunker/diario)
+- [diario](https://github.com/chrisyunker/journal)
 
