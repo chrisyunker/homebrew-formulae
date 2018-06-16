@@ -16,5 +16,6 @@ Install packages using fully qualified name:
 
 ## Packages
 
-- [diario](https://github.com/chrisyunker/journal)
+- [journal](https://github.com/chrisyunker/journal)
+- [tools](https://github.com/chrisyunker/tools)
 
