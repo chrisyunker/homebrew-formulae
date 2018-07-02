@@ -1,9 +1,9 @@
 class Journal < Formula
   desc "Command line tool for managing daily log files"
   homepage "https://github.com/chrisyunker/journal"
-  url "https://github.com/chrisyunker/journal/archive/v0.1.0.tar.gz"
-  sha256 "533b2a84a524b5acac481d6591f6abc71d6e8b7d5572bc26bd5f182726c523d8"
-  version "0.1.0"
+  url "https://github.com/chrisyunker/journal/archive/v1.0.0.tar.gz"
+  sha256 "84be672075a41d54bb2845d145b69240a5bf6610c2f27062fbc3313ca8bcab00"
+  version "1.0.0"
 
   bottle :unneeded
 
