@@ -17,5 +17,6 @@ Install packages using fully qualified name:
 ## Packages
 
 - [journal](https://github.com/chrisyunker/journal)
+- [openssl@1.0](https://openssl.org)
 - [tools](https://github.com/chrisyunker/tools)
 
