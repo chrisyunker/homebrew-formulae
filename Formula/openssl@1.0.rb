@@ -88,7 +88,7 @@ class OpensslAT10 < Formula
 
   test do
     # Make sure the necessary .cnf file exists, otherwise OpenSSL gets moody.
-    assert_predicate HOMEBREW_PREFIX/"etc/openssl@1.0/openssl.cnf", :exist?,
+    assert_predicate HOMEBREW_PREFIX/"#{openssldir}/openssl.cnf", :exist?,
             "OpenSSL requires the .cnf file for some functionality"
 
     # Check OpenSSL itself functions as expected.
