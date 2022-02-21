@@ -1,12 +1,13 @@
 class Tools < Formula
-  desc "Collection of command line tools"
+  desc "Collection of macOS command line tools"
   homepage "https://github.com/chrisyunker/tools"
-  url "https://github.com/chrisyunker/tools/archive/v0.2.0.tar.gz"
-  sha256 "5a5cd877b5e6d3df7ab95c9229c68989096cb45140f4d4249e3fa89778e8d4f5"
-  version "0.2.2"
+  url "https://github.com/chrisyunker/tools/archive/v1.0.0.tar.gz"
+  sha256 "427bea7faebabd98914455d51799eb3e679aab1b8f63e33421d8746e187f24cc"
+  version "1.0.0"
 
   def install
-    bin.install "toggle-dock"
+    bin.install "clone-repo"
     bin.install "kill-dock"
+    bin.install "toggle-dock"
   end
 end
