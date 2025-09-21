@@ -1,9 +1,9 @@
 class Tools < Formula
   desc "Collection of macOS command line tools"
   homepage "https://github.com/chrisyunker/tools"
-  url "https://github.com/chrisyunker/tools/archive/v1.0.1.tar.gz"
-  sha256 "62625ec56fa74c569c5f8b0eaea60299b1c4af0bac8d0d93aaaead0d31716287"
-  version "1.0.1"
+  url "https://github.com/chrisyunker/tools/archive/v1.0.2.tar.gz"
+  sha256 "7fd0508fb9929ad4c0b705bf73bc78c190a21d9c4781b2a624a25eff936fce1c"
+  version "1.0.2"
 
   def install
     bin.install "clone-repo"
